@@ -16,8 +16,6 @@ Uses
 
 Key files
 -----
-Database Script: /scripts/emart\_db.sql
-
-PHP.ini files: /php.ini files/*
-
-Config file: /include/config.php
+* Database Script: /scripts/emart\_db.sql
+* PHP.ini files: /php.ini files/*
+* Config file: /include/config.php
