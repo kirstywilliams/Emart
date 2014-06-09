@@ -5,7 +5,7 @@ This application is the result of the COMP208 module for BSC in Computer Science
 
 The project involved creating a web interface incorporating a database for customers to browse and purchase products online from a ficticious store called eMart.
 
-Full project details including Requirements, Design, and evaluation can be found in 'Final Report.pdf'
+Full project details including Requirements, Design, and Evaluation can be found in 'Final Report.pdf'
 
 Demo
 -----
