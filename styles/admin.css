@@ -1,0 +1,262 @@
+/* Center content container settings */
+#center {
+	width:100%;
+	max-width:100%;
+	display:block;
+	margin: auto;
+	background-color:#404040;
+	padding:20px 20px 40px 20px;
+	color:#ffffff;
+}
+
+.heading{
+	height:35px;
+	margin-top:15px;
+	font-size:24px;
+	font-weight:bold;
+	text-shadow:#000000;
+	text-align:center;
+}
+
+
+.innerheading{
+	height:35px;
+	margin-top:15px;
+	font-size:16px;
+	font-weight:bold;
+	text-shadow:#000000;
+	text-align:left;
+}
+
+.center2c{
+	padding-top:15px;
+	height:545px;
+	width:630px;
+}
+
+/* Left nav link settings */
+.leftlink{
+	width:220px;
+	height:30px;
+	margin-top:10px;
+	background-color: #caff00;
+	text-align:center;
+	color:#404040;
+}
+
+/* Login form settings */
+#adminloginform{
+	width: 320px;
+	height: auto;
+	color:000;
+	margin:auto;
+	margin-top:50px;
+}
+
+#loginsubtitle{
+	height:20px;
+	text-align:center;
+	margin-top:5px;
+}
+
+/* Error message settings */
+.errorMessage {
+	font-weight: bolder;
+	color: #F00;
+	margin-bottom:10px;
+}
+
+/* Form text box settings */
+.textbox{
+	width:100%;
+	display:block;
+	padding-left:0 !important;
+	padding-right:0 !important;
+}
+
+/* Form labels settings */
+.textlabel{
+	color: #000;
+	width: 100%;
+	display:block;
+}
+
+.noitemsfound{
+	text-align:center;
+	width:100%;
+	margin-top:10px;
+}
+
+.subtitle{
+	width:100%;
+	margin-top:30px;
+	margin-bottom:15px;
+	font-weight:bold;
+	text-shadow:#000000;
+}
+
+.records{
+	width: 100%;
+	border: none;
+	border-bottom: 4px solid #454545;
+	color: #000000;
+	text-align: left;
+	margin-top:10px;
+	padding-bottom:10px;
+}
+
+table.records th.record-tools{
+	width:20%;
+}
+table.records th.record-values{
+	width:80%;
+}
+
+table.records th.record-values-d2{
+	width:40%;
+}
+
+table.records th.record-values-d3{
+	width:26.6666%;
+}
+
+table.records th.record-values-d4{
+	width:20%;
+}
+
+table.records th.record-values-d5{
+	width:16%;
+}
+
+table.records th {
+	background-color: #454545;
+	color: #f7f7f7;
+	text-align: center;
+    font-size: 16px;
+    text-align: center;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
+	height:30px;
+	vertical-align:middle;
+}
+
+table.records td{
+	border: 1px solid #c3c3c3;
+	padding: 10px;
+	color: #000000;
+}
+
+.borderless-records {
+	width: 100%;
+	border-bottom: 2px solid #454545;
+}
+
+.borderless-records td {
+	border: none;
+	padding-left: 0;
+	width: 50%;
+}
+
+.bold-text {
+	font-size:95%;
+	font-weight: bold;
+	line-height: 24px;
+}
+
+.borderless-records .leftEdit{
+	border-right:4px solid #454545;
+	padding-bottom: 10px;
+}
+
+.borderless-records .rightEdit{
+	padding-bottom: 10px;
+	padding-left: 10px;
+}
+
+.imageEdit{
+	padding-top: 10px;
+}
+
+.centerBtn{
+	margin-left:25%;
+}
+
+
+#admin-nav li a {
+	font-size: 12px !important;
+	padding: 17px 10px !important;
+}
+
+#admin-nav ul li a {
+	padding: 9px 15px !important;
+	font-size: 12px !important;
+}
+
+.admin-nav-pad{
+	margin-top:30px !important;
+}
+
+.add-object{
+	display:block;
+	width:100%;
+}
+
+.add-object input{
+	display:inline;
+}
+
+.tool-button {
+  position: relative;
+  vertical-align: top;
+  width: 100%;
+  height: 30px;
+  padding: 0;
+  font-size: 16px;
+  color:#454545;
+  text-align: center;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
+  background: #ecf0f1;
+  border: 0;
+  border-bottom: 2px solid #dadedf;
+  cursor: pointer;
+  -webkit-box-shadow: inset 0 -2px #dadedf;
+  box-shadow: inset 0 -2px #dadedf;
+}
+.tool-button:active {
+  top: 1px;
+  outline: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+.add-object .tool-button{
+	display:inline;
+	width:100px;
+}
+/*
+.add-button, .save-button{
+	background: #2ecc71;
+	border-bottom: 2px solid #28be68;
+    -webkit-box-shadow: inset 0 -2px #28be68;
+    box-shadow: inset 0 -2px #28be68;
+}
+
+.delete-button{
+	background: #e74c3c;
+	border-bottom: 2px solid #db4334;
+    -webkit-box-shadow: inset 0 -2px #db4334;
+    box-shadow: inset 0 -2px #db4334;
+}
+
+.edit-button{
+	background: #f39c12;
+	border-bottom: 2px solid #e8930c;
+    -webkit-box-shadow: inset 0 -2px #e8930c;
+    box-shadow: inset 0 -2px #e8930c;
+}*/
+
+#fpwd{
+	background:none;
+	border-bottom:none;
+	box-shadown:none;
+	-webkit-box-shadow:none;
+}
